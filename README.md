@@ -8,7 +8,7 @@ I'm currently exploring **Product Management** while leading development on impa
 
 ## 🚀 About Me
 
-- 👨🏽‍🏫 Instructor & mentor to 500+ students in frontend and backend development.
+- 👨🏽‍🏫 Instructor & mentor to 100+ students in frontend and backend development.
 - 🏫 Software Director, NACOS LAUTECH — leading programs for students in Computer Science, Information Systems, and Cyber Security.
 - 🎯 Multi-skilled: Web & Mobile Development, Design, Technical Writing, and Product Thinking.
 - 🔨 Currently building:
