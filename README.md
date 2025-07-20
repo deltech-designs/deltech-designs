@@ -91,7 +91,7 @@ I’m currently writing beginner-friendly and practical guides on:
 - Learning paths for junior developers
 - Tools, frameworks, and real-world coding tips
 
-📖 Coming soon on [Medium](https://medium.com/@adekolapo)
+📖 Coming soon on [Medium](https://medium.com/@adekolaadekolapo)
 
 ---
 
@@ -107,9 +107,9 @@ I’m currently writing beginner-friendly and practical guides on:
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adekola-adekolapo)
-- 🐦 Twitter: [@adekolapo_codes](https://twitter.com/adekolapo_codes)
+- 🐦 Twitter: [@darkTechBro](https://x.com/darkTechBro)
 - 📩 Email: `adekolaadekolapo@gmail.com`
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: Coming soon [Portfolio](https://adekolapo-portfilio.vercel.app/)
 
 ---
 
