@@ -1,6 +1,6 @@
 # <h1>👋 Hello, I'm Adekolapo Adekola </h1>
 
-Welcome to my GitHub! I'm a **Full-Stack Web Developer**, **UI/UX Designer**, **Technical Instructor**, and **Tech Writer** based in Nigeria 🇳🇬. I specialize in building scalable applications, mentoring future developers, and designing user-centered interfaces for both web and mobile.
+Welcome to my GitHub! I'm a **Full-Stack Web Developer**, **Designer**, **Technical Instructor**, and **Tech Writer** based in Nigeria 🇳🇬. I specialize in building scalable applications, mentoring future developers, and designing user-centered interfaces for both web and mobile.
 
 I'm currently exploring **Product Management** while leading development on impactful software solutions for communities, churches, and tech training platforms.
 
@@ -9,8 +9,8 @@ I'm currently exploring **Product Management** while leading development on impa
 ## 🚀 About Me
 
 - 👨🏽‍🏫 Instructor & mentor to 500+ students in frontend and backend development.
-- 🏫 Director of Programming, NACOS LAUTECH — leading programs for students in Computer Science, Information Systems, and Cyber Security.
-- 🎯 Multi-skilled: Web & Mobile Development, UI/UX Design (Figma), Technical Writing, and Product Thinking.
+- 🏫 Software Director, NACOS LAUTECH — leading programs for students in Computer Science, Information Systems, and Cyber Security.
+- 🎯 Multi-skilled: Web & Mobile Development, Design, Technical Writing, and Product Thinking.
 - 🔨 Currently building:
   - **QueueMSG** – Automated recurring messaging platform.
   - **Sabo Baptist Church Management System** – Custom church software solution.
@@ -79,7 +79,7 @@ I'm currently exploring **Product Management** while leading development on impa
   🔗 [Live Demo](https://ip-address-tracker-nine-rho.vercel.app/)
 
 - 🏫 **React Curriculum & Live Classes**  
-  A structured learning journey designed and taught by me — covering core React concepts, practical projects, and full-stack integration.
+  A structured learning journey designed and taught by me, covering core React concepts, practical projects, and full-stack integration.
 
 ---
 
