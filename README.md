@@ -1,26 +1,126 @@
-<h1 align="center">Hi 👋, I'm Adekola Adekolapo Ayodele</h1>
-<h3 align="center">A passionate Full-Stack developer from Nigeria</h3>
+# <h1>👋 Hello, I'm Adekolapo Adekola </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deltech-designs&label=Profile%20views&color=0e75b6&style=flat" alt="deltech-designs" /> </p>
+Welcome to my GitHub! I'm a **Full-Stack Web Developer**, **UI/UX Designer**, **Technical Instructor**, and **Tech Writer** based in Nigeria 🇳🇬. I specialize in building scalable applications, mentoring future developers, and designing user-centered interfaces for both web and mobile.
 
-- 🔭 I’m currently working on **QueueMSG System, Sabo Baptist Church, Church Management System, and Motus Mobile App**
+I'm currently exploring **Product Management** while leading development on impactful software solutions for communities, churches, and tech training platforms.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adekolapo-adekola-a13725214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adekolapo-adekola-a13725214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18115813/deltech-designs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18115813/deltech-designs" height="30" width="40" /></a>
-<a href="https://medium.com/@adekolaadekolapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adekolaadekolapo" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/986260345540706314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/986260345540706314" height="30" width="40" /></a>
-<a href="/https://medium.com/@adekolaadekolapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@adekolaadekolapo" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 👨🏽‍🏫 Instructor & mentor to 500+ students in frontend and backend development.
+- 🏫 Director of Programming, NACOS LAUTECH — leading programs for students in Computer Science, Information Systems, and Cyber Security.
+- 🎯 Multi-skilled: Web & Mobile Development, UI/UX Design (Figma), Technical Writing, and Product Thinking.
+- 🔨 Currently building:
+  - **QueueMSG** – Automated recurring messaging platform.
+  - **Sabo Baptist Church Management System** – Custom church software solution.
+  - **Motus Mobile App** – A wellness and productivity tracker.
+  - **New Cephas ICT Hub CMS** – A system to manage their new website.
+- ✍🏽 Writing guides for beginners and intermediate devs.
+- 💡 Driven by purpose, impact, and faith — I love building tools that solve real-world problems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deltech-designs&show_icons=true&locale=en&layout=compact" alt="deltech-designs" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deltech-designs&show_icons=true&locale=en" alt="deltech-designs" /></p>
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+### State Management & APIs
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=zustand&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
+
+---
+
+## 🧩 Featured Projects
+
+- 🏛 **Sabo Baptist Church Management System**  
+  A custom-built platform to help churches manage attendance, finances, events, and member records. Built using the MERN stack.
+
+- 💬 **QueueMSG – Automated Messaging System**  
+  A smart, full-stack message scheduling platform that lets users automate and send recurring messages. Built with **React**, **Node.js**, **TypeScript**, **MongoDB**, and **PostgreSQL** — designed for reliability and scalability.
+
+- 📱 **Motus Mobile App**  
+  A beautifully designed **React Native** application for wellness and personal progress tracking. Built with **Expo**, **TypeScript**, and **Tailwind CSS** to ensure a sleek mobile-first experience.
+
+- 🧱 **CEHR – HR System**  
+  A modern HR solution to streamline employee recordkeeping and workflow processes. Includes user roles, dynamic forms, and admin features.
+
+- 🌐 **New Cephas ICT Hub CMS**  
+  A full-featured content management system built for a modern tech and training institute. It enables:
+  - 🧑🏽‍🎓 **Student registration** for tech courses and tracking of progress.
+  - 📚 **Course and program management** by admins.
+  - 👥 **Staff management**, including roles and profiles.
+  - 🏢 **Content updates** for organization details, events, services, and team members.  
+  Built with a scalable full-stack architecture using modern web technologies.
+
+- 🌐 **IP Address Tracker**  
+  A frontend project that allows users to locate IP address geodata. Built with **React** and **Tailwind CSS**.  
+  🔗 [Live Demo](https://ip-address-tracker-nine-rho.vercel.app/)
+
+- 🏫 **React Curriculum & Live Classes**  
+  A structured learning journey designed and taught by me — covering core React concepts, practical projects, and full-stack integration.
+
+---
+
+## ✍🏽 Technical Writing
+
+I’m currently writing beginner-friendly and practical guides on:
+
+- Full-stack development (React, Node.js, MongoDB, TypeScript)
+- Learning paths for junior developers
+- Tools, frameworks, and real-world coding tips
+
+📖 Coming soon on [Medium](https://medium.com/@adekolapo)
+
+---
+
+## 🎯 What I’m Focused On
+
+- Building real-world, purposeful applications
+- Learning and applying Product Management principles
+- Designing clean, functional, user-first interfaces
+- Mentoring junior developers through structured teaching
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adekola-adekolapo)
+- 🐦 Twitter: [@adekolapo_codes](https://twitter.com/adekolapo_codes)
+- 📩 Email: `adekolaadekolapo@gmail.com`
+- 🌐 Portfolio: Coming soon
+
+---
+
+## 💡 Fun Facts
+
+- 🎨 I love design as much as I love logic.
+- 🧑🏽‍🏫 I simplify hard concepts for developers at all levels.
+- ✝️ Faith-driven and focused on meaningful innovation.
+
+> **“Code it. Design it. Teach it. Impact with it.”**
+
+---
+
+_Thanks for stopping by! Feel free to explore, contribute, or reach out! ⭐_
